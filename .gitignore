@@ -1,0 +1,9 @@
+.DS_Store
+.env
+.idea/
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.coder-state.json
+trace.jsonl

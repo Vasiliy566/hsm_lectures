@@ -1,0 +1,7 @@
+google-genai>=2.3.0
+python-dotenv>=1.0.0
+pytest>=8.0.0
+
+# Только для дополнительного примера ai_coder_langchain.py:
+langchain>=1.0.0
+langchain-google-genai>=4.0.0
