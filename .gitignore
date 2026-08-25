@@ -1,5 +1,6 @@
 .DS_Store
 .env
+secret_constants.py
 .idea/
 .venv/
 __pycache__/
