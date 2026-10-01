@@ -1,0 +1,6 @@
+.env
+runs/
+answers.jsonl
+results.csv
+trace.jsonl
+__pycache__/
