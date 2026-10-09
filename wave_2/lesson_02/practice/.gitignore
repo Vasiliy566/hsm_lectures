@@ -1,0 +1,5 @@
+.env
+!project/.env
+sandbox/
+runs/
+__pycache__/

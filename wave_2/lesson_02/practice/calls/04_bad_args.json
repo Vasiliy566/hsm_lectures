@@ -1,0 +1,7 @@
+{
+  "_note": "Ошибка: аргумент назван не так, как в схеме. Вызов написан вручную, модель не вызывалась.",
+  "type": "function_call",
+  "call_id": "call_manual_04",
+  "name": "read_file",
+  "arguments": "{\"file\": \"shop/orders.py\"}"
+}

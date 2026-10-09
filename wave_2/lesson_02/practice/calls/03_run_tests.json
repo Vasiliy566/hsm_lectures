@@ -1,0 +1,7 @@
+{
+  "_note": "Обычный вызов: запуск тестов. Вызов написан вручную, модель не вызывалась.",
+  "type": "function_call",
+  "call_id": "call_manual_03",
+  "name": "run_tests",
+  "arguments": "{}"
+}

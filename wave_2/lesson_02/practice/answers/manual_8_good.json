@@ -1,0 +1,1 @@
+{"file": "shop/orders.py", "function": "can_change_address", "change": "fix_code", "reason": "Статус picking попал в список разрешённых, а по правилу после начала сборки адрес менять нельзя."}

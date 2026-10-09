@@ -1,0 +1,1 @@
+{"file": ["shop/orders.py", "tests/test_orders.py"], "function": "can_change_address", "change": "fix_code", "reason": "Ошибка в правиле и в тесте"}

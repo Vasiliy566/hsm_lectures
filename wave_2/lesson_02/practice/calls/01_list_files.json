@@ -1,0 +1,7 @@
+{
+  "_note": "Обычный вызов: список файлов. Вызов написан вручную, модель не вызывалась.",
+  "type": "function_call",
+  "call_id": "call_manual_01",
+  "name": "list_files",
+  "arguments": "{\"folder\": \".\"}"
+}

@@ -1,0 +1,4 @@
+openai>=2.26
+python-dotenv>=1.0
+jsonschema>=3.2
+pydantic>=2

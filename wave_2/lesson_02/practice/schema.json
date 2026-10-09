@@ -1,0 +1,23 @@
+{
+  "type": "object",
+  "properties": {
+    "file": {
+      "type": "string",
+      "description": "Один путь к файлу относительно корня проекта"
+    },
+    "function": {
+      "type": "string",
+      "description": "Имя функции, которую нужно исправить"
+    },
+    "change": {
+      "type": "string",
+      "enum": ["fix_code", "fix_test", "no_change"]
+    },
+    "reason": {
+      "type": "string",
+      "description": "Одно-два предложения: почему именно здесь"
+    }
+  },
+  "required": ["file", "function", "change", "reason"],
+  "additionalProperties": false
+}

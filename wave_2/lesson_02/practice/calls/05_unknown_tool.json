@@ -1,0 +1,7 @@
+{
+  "_note": "Ошибка: такого инструмента нет. Вызов написан вручную, модель не вызывалась.",
+  "type": "function_call",
+  "call_id": "call_manual_05",
+  "name": "delete_file",
+  "arguments": "{\"path\": \"tests/test_orders.py\"}"
+}

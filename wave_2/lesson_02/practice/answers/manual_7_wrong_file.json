@@ -1,0 +1,1 @@
+{"file": "shop/delivery.py", "function": "estimate_days", "change": "fix_code", "reason": "Доставка влияет на смену адреса"}

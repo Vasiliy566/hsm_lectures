@@ -1,0 +1,1 @@
+{"file": "shop/address.py", "function": "can_change_address", "change": "fix_code", "reason": "Правило смены адреса обычно лежит в модуле address"}

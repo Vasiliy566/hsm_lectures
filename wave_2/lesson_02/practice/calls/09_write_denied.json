@@ -1,0 +1,7 @@
+{
+  "_note": "Права: запись выключена. Вызов написан вручную, модель не вызывалась.",
+  "type": "function_call",
+  "call_id": "call_manual_09",
+  "name": "write_file",
+  "arguments": "{\"path\": \"shop/orders.py\", \"content\": \"# пусто\\n\"}"
+}

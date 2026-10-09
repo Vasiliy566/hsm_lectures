@@ -1,0 +1,1 @@
+{"file": "shop/orders.py", "function": "can_change_address", "change": "rewrite_everything", "reason": "Проще переписать модуль"}

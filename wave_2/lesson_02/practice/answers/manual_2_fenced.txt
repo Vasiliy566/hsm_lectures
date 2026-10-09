@@ -1,0 +1,3 @@
+```json
+{"file": "shop/orders.py", "function": "can_change_address", "change": "fix_code", "reason": "picking разрешён по ошибке"}
+```

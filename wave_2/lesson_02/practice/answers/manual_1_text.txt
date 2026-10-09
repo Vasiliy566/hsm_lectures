@@ -1,0 +1,1 @@
+Ошибка в файле shop/orders.py, функция can_change_address: для статуса picking она возвращает True.
